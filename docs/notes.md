@@ -5,3 +5,4 @@ Notes and usage details for arconia.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
